@@ -1,5 +1,5 @@
 # graphic-test
-this is graphic for population of Indonesia
+this graphic for population of Indonesia
 
 # project instruction graphic ::
 - required node version min 18.0.0 (user use node: v21.6.0, npm: 10.2.4)
